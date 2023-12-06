@@ -17,8 +17,12 @@ _Data was provided in Project 4 and included the following datasets_
 ## Folders
 _Folders were separated into 5 sections_
 - 01 Project management
-  sjowe
+_Project Brief_
 - 02 Data
+_Original and Prepared Data: Not Included_
 - 03 Scripts
+_Python code for data process_
 - 04 Analysis
+_Visualizations_
 - 05 Sent to Client
+_Excel Final Report_
