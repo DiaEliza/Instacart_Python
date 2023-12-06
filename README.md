@@ -16,8 +16,8 @@ _Data was provided in Project 4 and included the following datasets_
 
 ## Folders
 _Folders were separated into 5 sections_
-__1.  Project Management:__ Project Brief
-__2.  Data:__ Original Data/ Cleaned Data (not included)
-__3.  Scripts:__ Python code for data analysis
-__4.  Analysis:__ Visualizations
-__5.  Sent to Client:__ Final Excel Report
+__- Project Management:__ Project Brief
+__- Data:__ Original Data/ Cleaned Data (not included)
+__- Scripts:__ Python code for data analysis
+__- Analysis:__ Visualizations
+__- Sent to Client:__ Final Excel Report
