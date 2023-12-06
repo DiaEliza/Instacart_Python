@@ -8,16 +8,16 @@ _Instacart stakeholders are most interested in the variety of customers in their
 
 ## Data 
 _Data was provided in Project 4 and included the following datasets_
-- Orders
-- Orders_products_prior
+- orders
+- orders_products_prior
 - products
 - customers
 - departments
 
 ## Folders
 _Folders were separated into 5 sections_
-__- Project Management:__ Project Brief
-__- Data:__ Original Data/ Cleaned Data (not included)
-__- Scripts:__ Python code for data analysis
-__- Analysis:__ Visualizations
-__- Sent to Client:__ Final Excel Report
+__- Project Management:__
+__- Data:__
+__- Script:__
+__- Analysis:__
+__- Sent to Client:__
